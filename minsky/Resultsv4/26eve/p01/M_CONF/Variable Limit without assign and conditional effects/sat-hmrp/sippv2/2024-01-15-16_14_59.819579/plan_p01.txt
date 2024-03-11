@@ -1,0 +1,11 @@
+464.0: (changeConfiguration wrdc1_stage4 wrdc1 conf_wrdc1_1 conf_wrdc1_3 lim4)
+464.0: (changeLimit wrdc1_stage4 wrdc1 lim4 lim5)
+499.0: (changeConfiguration wrfc1_stage3 wrfc1 conf_wrfc1_1 conf_wrfc1_3 lim4)
+499.0: (changeLimit wrfc1_stage3 wrfc1 lim4 lim6)
+508.0: (changeConfiguration wrec1_stage4 wrec1 conf_wrec1_1 conf_wrec1_2 lim4)
+526.0: (changeConfiguration wrbc1_stage5 wrbc1 conf_wrbc1_1 conf_wrbc1_6 lim4)
+526.0: (changeLimit wrbc1_stage5 wrbc1 lim4 lim10)
+591.0: (changeConfiguration wrac1_stage4 wrac1 conf_wrac1_1 conf_wrac1_4 lim4)
+668.0: (changeConfiguration wrcc1_stage6 wrcc1 conf_wrcc1_1 conf_wrcc1_6 lim4)
+668.0: (changeLimit wrcc1_stage6 wrcc1 lim4 lim10)
+1052.0: @PlanEND 

@@ -1,0 +1,135 @@
+Domain parsed
+Problem parsed
+Grounding..
+Grounding Time: 185
+Aibr Preprocessing
+|F|:94
+|X|:81
+Aibr Preprocessing
+|A|:216
+|P|:274
+|E|:208
+Delta time heuristic model:1.0
+Delta time planning model:1.0
+Delta time search-execution model:1.0
+Delta time validation model:1
+H1 Setup Time (msec): 39
+Setting horizon to:NaN
+Running WA-STAR
+h(n = s_0)=624.2366
+f(n) = 624.2366 (Expanded Nodes: 0, Evaluated States: 0, Time: 0.086) Frontier Size: 0
+f(n) = 632.94324 (Expanded Nodes: 16, Evaluated States: 16, Time: 0.179) Frontier Size: 0
+f(n) = 688.3851 (Expanded Nodes: 9798, Evaluated States: 10913, Time: 7.616) Frontier Size: 1115
+f(n) = 689.3851 (Expanded Nodes: 9823, Evaluated States: 10943, Time: 7.637) Frontier Size: 1120
+f(n) = 690.3851 (Expanded Nodes: 10078, Evaluated States: 11243, Time: 7.799) Frontier Size: 1165
+f(n) = 691.3851 (Expanded Nodes: 10753, Evaluated States: 11993, Time: 8.211) Frontier Size: 1240
+f(n) = 692.3851 (Expanded Nodes: 10893, Evaluated States: 12013, Time: 8.231) Frontier Size: 1120
+f(n) = 693.3851 (Expanded Nodes: 11118, Evaluated States: 12313, Time: 8.412) Frontier Size: 1195
+f(n) = 694.3851 (Expanded Nodes: 12243, Evaluated States: 13813, Time: 9.608) Frontier Size: 1570
+-------------Time: 10s ; Expanded Nodes: 12681 (Avg-Speed 1268.0 n/s); Evaluated States: 14396
+f(n) = 699.385 (Expanded Nodes: 14118, Evaluated States: 16313, Time: 11.522) Frontier Size: 2195
+f(n) = 700.385 (Expanded Nodes: 14123, Evaluated States: 16318, Time: 11.526) Frontier Size: 2195
+f(n) = 701.385 (Expanded Nodes: 14223, Evaluated States: 16423, Time: 11.585) Frontier Size: 2200
+f(n) = 702.385 (Expanded Nodes: 14853, Evaluated States: 17098, Time: 11.989) Frontier Size: 2245
+f(n) = 703.385 (Expanded Nodes: 16153, Evaluated States: 18473, Time: 12.791) Frontier Size: 2320
+f(n) = 715.085 (Expanded Nodes: 16278, Evaluated States: 18473, Time: 12.799) Frontier Size: 2195
+-------------Time: 20s ; Expanded Nodes: 25545 (Avg-Speed 1277.0 n/s); Evaluated States: 28336
+f(n) = 716.085 (Expanded Nodes: 32262, Evaluated States: 35392, Time: 25.071) Frontier Size: 3130
+-------------Time: 30s ; Expanded Nodes: 38992 (Avg-Speed 1299.0 n/s); Evaluated States: 42599
+-------------Time: 40s ; Expanded Nodes: 51910 (Avg-Speed 1297.0 n/s); Evaluated States: 56301
+-------------Time: 50s ; Expanded Nodes: 65204 (Avg-Speed 1304.0 n/s); Evaluated States: 70286
+-------------Time: 60s ; Expanded Nodes: 78538 (Avg-Speed 1308.0 n/s); Evaluated States: 84398
+-------------Time: 70s ; Expanded Nodes: 91050 (Avg-Speed 1300.0 n/s); Evaluated States: 97645
+-------------Time: 80s ; Expanded Nodes: 103751 (Avg-Speed 1296.0 n/s); Evaluated States: 111148
+-------------Time: 90s ; Expanded Nodes: 116237 (Avg-Speed 1291.0 n/s); Evaluated States: 124355
+-------------Time: 100s ; Expanded Nodes: 129345 (Avg-Speed 1293.0 n/s); Evaluated States: 138201
+-------------Time: 110s ; Expanded Nodes: 143054 (Avg-Speed 1300.0 n/s); Evaluated States: 152729
+-------------Time: 120s ; Expanded Nodes: 155180 (Avg-Speed 1293.0 n/s); Evaluated States: 165570
+-------------Time: 130s ; Expanded Nodes: 168142 (Avg-Speed 1293.0 n/s); Evaluated States: 179318
+-------------Time: 140s ; Expanded Nodes: 181425 (Avg-Speed 1295.0 n/s); Evaluated States: 193337
+-------------Time: 150s ; Expanded Nodes: 194712 (Avg-Speed 1298.0 n/s); Evaluated States: 207397
+-------------Time: 160s ; Expanded Nodes: 208958 (Avg-Speed 1305.0 n/s); Evaluated States: 222468
+-------------Time: 170s ; Expanded Nodes: 221902 (Avg-Speed 1305.0 n/s); Evaluated States: 236127
+-------------Time: 180s ; Expanded Nodes: 234022 (Avg-Speed 1300.0 n/s); Evaluated States: 248982
+-------------Time: 190s ; Expanded Nodes: 246968 (Avg-Speed 1299.0 n/s); Evaluated States: 262688
+-------------Time: 200s ; Expanded Nodes: 259063 (Avg-Speed 1295.0 n/s); Evaluated States: 275493
+-------------Time: 210s ; Expanded Nodes: 271612 (Avg-Speed 1293.0 n/s); Evaluated States: 288742
+f(n) = 717.085 (Expanded Nodes: 272022, Evaluated States: 289177, Time: 210.336) Frontier Size: 17155
+-------------Time: 220s ; Expanded Nodes: 283847 (Avg-Speed 1290.0 n/s); Evaluated States: 301737
+-------------Time: 230s ; Expanded Nodes: 296052 (Avg-Speed 1287.0 n/s); Evaluated States: 314712
+-------------Time: 240s ; Expanded Nodes: 308866 (Avg-Speed 1286.0 n/s); Evaluated States: 328201
+-------------Time: 250s ; Expanded Nodes: 321898 (Avg-Speed 1287.0 n/s); Evaluated States: 342070
+-------------Time: 260s ; Expanded Nodes: 334978 (Avg-Speed 1288.0 n/s); Evaluated States: 355898
+-------------Time: 270s ; Expanded Nodes: 349287 (Avg-Speed 1293.0 n/s); Evaluated States: 370990
+-------------Time: 280s ; Expanded Nodes: 361970 (Avg-Speed 1292.0 n/s); Evaluated States: 384404
+-------------Time: 290s ; Expanded Nodes: 375082 (Avg-Speed 1293.0 n/s); Evaluated States: 398372
+-------------Time: 300s ; Expanded Nodes: 388776 (Avg-Speed 1295.0 n/s); Evaluated States: 412813
+-------------Time: 310s ; Expanded Nodes: 403014 (Avg-Speed 1300.0 n/s); Evaluated States: 427859
+-------------Time: 320s ; Expanded Nodes: 416341 (Avg-Speed 1301.0 n/s); Evaluated States: 441976
+-------------Time: 330s ; Expanded Nodes: 429240 (Avg-Speed 1300.0 n/s); Evaluated States: 455601
+-------------Time: 340s ; Expanded Nodes: 442632 (Avg-Speed 1301.0 n/s); Evaluated States: 469772
+-------------Time: 350s ; Expanded Nodes: 456651 (Avg-Speed 1304.0 n/s); Evaluated States: 484680
+-------------Time: 360s ; Expanded Nodes: 470929 (Avg-Speed 1308.0 n/s); Evaluated States: 499804
+-------------Time: 370s ; Expanded Nodes: 484303 (Avg-Speed 1308.0 n/s); Evaluated States: 513927
+-------------Time: 380s ; Expanded Nodes: 496976 (Avg-Speed 1307.0 n/s); Evaluated States: 527329
+-------------Time: 390s ; Expanded Nodes: 511099 (Avg-Speed 1310.0 n/s); Evaluated States: 542264
+-------------Time: 400s ; Expanded Nodes: 524480 (Avg-Speed 1311.0 n/s); Evaluated States: 556407
+-------------Time: 410s ; Expanded Nodes: 537113 (Avg-Speed 1310.0 n/s); Evaluated States: 569875
+-------------Time: 420s ; Expanded Nodes: 550024 (Avg-Speed 1309.0 n/s); Evaluated States: 583531
+-------------Time: 430s ; Expanded Nodes: 562333 (Avg-Speed 1307.0 n/s); Evaluated States: 596503
+-------------Time: 440s ; Expanded Nodes: 575053 (Avg-Speed 1306.0 n/s); Evaluated States: 610005
+-------------Time: 450s ; Expanded Nodes: 588731 (Avg-Speed 1308.0 n/s); Evaluated States: 624436
+-------------Time: 460s ; Expanded Nodes: 601598 (Avg-Speed 1307.0 n/s); Evaluated States: 638040
+-------------Time: 470s ; Expanded Nodes: 613722 (Avg-Speed 1305.0 n/s); Evaluated States: 650872
+-------------Time: 480s ; Expanded Nodes: 626674 (Avg-Speed 1305.0 n/s); Evaluated States: 664589
+-------------Time: 490s ; Expanded Nodes: 638837 (Avg-Speed 1303.0 n/s); Evaluated States: 677472
+-------------Time: 500s ; Expanded Nodes: 651093 (Avg-Speed 1302.0 n/s); Evaluated States: 690503
+-------------Time: 510s ; Expanded Nodes: 664140 (Avg-Speed 1302.0 n/s); Evaluated States: 704330
+-------------Time: 520s ; Expanded Nodes: 677050 (Avg-Speed 1302.0 n/s); Evaluated States: 718004
+-------------Time: 530s ; Expanded Nodes: 689533 (Avg-Speed 1301.0 n/s); Evaluated States: 731228
+-------------Time: 540s ; Expanded Nodes: 702945 (Avg-Speed 1301.0 n/s); Evaluated States: 745377
+-------------Time: 550s ; Expanded Nodes: 716530 (Avg-Speed 1302.0 n/s); Evaluated States: 759690
+-------------Time: 560s ; Expanded Nodes: 730343 (Avg-Speed 1304.0 n/s); Evaluated States: 774313
+-------------Time: 570s ; Expanded Nodes: 742470 (Avg-Speed 1302.0 n/s); Evaluated States: 787165
+-------------Time: 580s ; Expanded Nodes: 754697 (Avg-Speed 1301.0 n/s); Evaluated States: 800164
+-------------Time: 590s ; Expanded Nodes: 767169 (Avg-Speed 1300.0 n/s); Evaluated States: 813314
+-------------Time: 600s ; Expanded Nodes: 779728 (Avg-Speed 1299.0 n/s); Evaluated States: 826597
+-------------Time: 610s ; Expanded Nodes: 792685 (Avg-Speed 1299.0 n/s); Evaluated States: 840314
+-------------Time: 620s ; Expanded Nodes: 805098 (Avg-Speed 1298.0 n/s); Evaluated States: 853443
+-------------Time: 630s ; Expanded Nodes: 817766 (Avg-Speed 1298.0 n/s); Evaluated States: 866928
+-------------Time: 640s ; Expanded Nodes: 830579 (Avg-Speed 1297.0 n/s); Evaluated States: 880409
+-------------Time: 650s ; Expanded Nodes: 843385 (Avg-Speed 1297.0 n/s); Evaluated States: 894046
+-------------Time: 660s ; Expanded Nodes: 855798 (Avg-Speed 1296.0 n/s); Evaluated States: 907157
+-------------Time: 670s ; Expanded Nodes: 868207 (Avg-Speed 1295.0 n/s); Evaluated States: 920272
+-------------Time: 680s ; Expanded Nodes: 880914 (Avg-Speed 1295.0 n/s); Evaluated States: 933781
+-------------Time: 690s ; Expanded Nodes: 893648 (Avg-Speed 1295.0 n/s); Evaluated States: 947168
+-------------Time: 700s ; Expanded Nodes: 906775 (Avg-Speed 1295.0 n/s); Evaluated States: 961116
+-------------Time: 710s ; Expanded Nodes: 920145 (Avg-Speed 1295.0 n/s); Evaluated States: 975270
+-------------Time: 720s ; Expanded Nodes: 933635 (Avg-Speed 1296.0 n/s); Evaluated States: 989577
+-------------Time: 730s ; Expanded Nodes: 946033 (Avg-Speed 1295.0 n/s); Evaluated States: 1002652
+-------------Time: 740s ; Expanded Nodes: 958981 (Avg-Speed 1295.0 n/s); Evaluated States: 1016366
+-------------Time: 750s ; Expanded Nodes: 971050 (Avg-Speed 1294.0 n/s); Evaluated States: 1029120
+-------------Time: 760s ; Expanded Nodes: 984354 (Avg-Speed 1295.0 n/s); Evaluated States: 1043184
+-------------Time: 770s ; Expanded Nodes: 997918 (Avg-Speed 1295.0 n/s); Evaluated States: 1057590
+-------------Time: 780s ; Expanded Nodes: 1010076 (Avg-Speed 1294.0 n/s); Evaluated States: 1070493
+-------------Time: 790s ; Expanded Nodes: 1022174 (Avg-Speed 1293.0 n/s); Evaluated States: 1083270
+-------------Time: 800s ; Expanded Nodes: 1034954 (Avg-Speed 1293.0 n/s); Evaluated States: 1096744
+-------------Time: 810s ; Expanded Nodes: 1048374 (Avg-Speed 1294.0 n/s); Evaluated States: 1110989
+-------------Time: 820s ; Expanded Nodes: 1060415 (Avg-Speed 1293.0 n/s); Evaluated States: 1123715
+-------------Time: 830s ; Expanded Nodes: 1071735 (Avg-Speed 1291.0 n/s); Evaluated States: 1135715
+-------------Time: 840s ; Expanded Nodes: 1084205 (Avg-Speed 1290.0 n/s); Evaluated States: 1148870
+-------------Time: 850s ; Expanded Nodes: 1095891 (Avg-Speed 1289.0 n/s); Evaluated States: 1161281
+-------------Time: 860s ; Expanded Nodes: 1108055 (Avg-Speed 1288.0 n/s); Evaluated States: 1174176
+-------------Time: 870s ; Expanded Nodes: 1121568 (Avg-Speed 1289.0 n/s); Evaluated States: 1188523
+-------------Time: 880s ; Expanded Nodes: 1132795 (Avg-Speed 1287.0 n/s); Evaluated States: 1200409
+-------------Time: 890s ; Expanded Nodes: 1144674 (Avg-Speed 1286.0 n/s); Evaluated States: 1212894
+gen 15, 2024 5:16:49 PM planners.ENHSP planning
+SEVERE: null
+java.util.concurrent.TimeoutException: Timeout has been reached: bailing out
+	at com.hstairs.ppmajal.search.SearchEngine.WAStar(SearchEngine.java:494)
+	at com.hstairs.ppmajal.search.SearchEngine.WAStar(SearchEngine.java:596)
+	at com.hstairs.ppmajal.search.SearchEngine.WAStar(SearchEngine.java:592)
+	at planners.ENHSP.search(ENHSP.java:533)
+	at planners.ENHSP.planning(ENHSP.java:179)
+	at main.main(main.java:31)
+

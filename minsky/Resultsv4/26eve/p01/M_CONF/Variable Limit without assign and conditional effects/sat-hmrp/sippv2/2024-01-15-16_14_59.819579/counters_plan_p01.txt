@@ -1,0 +1,5 @@
+Note: /home/studenti/kouaiti/results_experiments/Jpddlsim.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+Exception in thread "main" java.lang.RuntimeException: (changeConfiguration wrfc1_stage3 wrfc1 conf_wrfc1_1 conf_wrfc1_3 lim4) is not applicable at time 499.0
+	at com.hstairs.ppmajal.problem.PDDLSearchEngine.simulate(PDDLSearchEngine.java:357)
+	at jpddltrafficsim.Jpddlsim.main(Jpddlsim.java:78)
